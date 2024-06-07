@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>ĐATN</Name>
+		<Assembly>ĐATN.dll</Assembly>
+		<AddInId>365B5C73-F477-4A96-AB3C-09369F1FACB9</AddInId>
+		<FullClassName>ĐATN.Cls_Command</FullClassName>
+		<Description>This is a Plugin</Description>
+		<VendorId>Omar Samy</VendorId>
+		<VendorDescription>Software Engineer</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
+
