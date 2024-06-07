@@ -146,7 +146,7 @@ namespace ĐATN
 
             return dataTable;
         }
-
+        //tes
         public static DataTable Tinh_AS()
         {
             DataTable dataTable = new DataTable();
